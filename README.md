@@ -18,6 +18,9 @@ Imagine walking into a liquor store and not knowing what type of beer to drink f
 ## Description
 This web application allwos a user to find a beer based on Flavor notes and ABV percentage. The user would have to verify if they are of age to enter the site first, with an age verifier, they would input the date they were born and then proceed to the login screen, where then the user would create an account to enter the site. The information that would be entered would be stored on a secured database with the user password being hashed out for privacy reasons. Once logged in, the user would then get routed to a members page in which they can find a beer of their liking to drink. This is done through "choice box" of "Find Beer" in the Members page of the application. A user will input the likings of what they would want to drink in this area of the application in order to generate a small list of beers they should try. They can also see a "Featured" beer or hit the "Random Beer" generator button to try a new beer everytime. The user will also have access to the entire beer list as well just by hitting the "Beer List" button on the Navbar.
 
+## Link to Site
+
+(Live Site)(https://gentledrinkers.herokuapp.com/)
 
 ## Project Status
 This is a project for the UCR coding bootcamp. Development has slowed down due to time, but would eventually be picked up soon if a request is made for Gentle Drinkers. 
