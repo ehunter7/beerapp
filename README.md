@@ -20,7 +20,7 @@ This web application allwos a user to find a beer based on Flavor notes and ABV 
 
 ## Link to Site
 
-(Live Site)(https://gentledrinkers.herokuapp.com/)
+https://gentledrinkers.herokuapp.com/
 
 ## Project Status
 This is a project for the UCR coding bootcamp. Development has slowed down due to time, but would eventually be picked up soon if a request is made for Gentle Drinkers. 
